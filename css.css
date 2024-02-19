@@ -1,0 +1,79 @@
+  .btn {
+ width: 250px;
+ padding: 5px 20px;
+ display: block;
+ margin: none;
+ border: none;
+ color: rgb(255, 255, 255);
+ padding: 10px 40px;
+ cursor: pointer;
+ border-radius: 5px;
+  }
+
+  .est {
+    background-color: rgb(16, 169, 230);
+    border: 2px;
+    border-style: inset;
+    border-color: rgb(83, 85, 212);
+  }
+  .est:hover {
+    background: rgb(97, 98, 184); color: rgb(255, 255, 255);
+  }
+.texx {
+  color: white;
+}
+.btnn {
+  position: absolute;
+  top: 60px;
+  left: 400px;
+  width: 250px;
+ padding: 5px 20px;
+ display: block;
+ margin: none;
+ border: none;
+ color: rgb(255, 255, 255);
+ padding: 10px 40px;
+ cursor: pointer;
+ border-radius: 5px;
+}
+.btnnn {
+  position: absolute;
+  top: 60px;
+  left: 800px;
+  width: 250px;
+ padding: 5px 20px;
+ display: block;
+ margin: none;
+ border: none;
+ color: rgb(255, 255, 255);
+ padding: 10px 40px;
+ cursor: pointer;
+ border-radius: 5px;
+}
+.btnnnn {
+  position: absolute;
+  top: 60px;
+  left: 1200px;
+  width: 250px;
+ padding: 5px 20px;
+ display: block;
+ margin: none;
+ border: none;
+ color: rgb(255, 255, 255);
+ padding: 10px 40px;
+ cursor: pointer;
+ border-radius: 5px;
+}
+.btnnnnn {
+  position: absolute;
+  top: 60px;
+  left: 1600px;
+  width: 250px;
+  display: block;
+  margin: none;
+  border: none;
+  color: white;
+  padding: 2px 40px;
+  cursor: pointer;
+  border-radius: 5px;
+}
