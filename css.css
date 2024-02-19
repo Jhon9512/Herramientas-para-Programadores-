@@ -17,7 +17,7 @@
     border-color: rgb(83, 85, 212);
   }
   .est:hover {
-    background: rgb(97, 98, 184); color: rgb(255, 255, 255);
+    background: rgb(97, 60, 184); color: rgb(255, 255, 255);
   }
 .texx {
   color: white;
@@ -76,4 +76,18 @@
   padding: 2px 40px;
   cursor: pointer;
   border-radius: 5px;
+}
+.btnnnnnn {
+  position: absolute;
+  top: 180px;
+  left: 1600px;
+  width: 250px;
+  display: block;
+  margin: none;
+  border: none;
+  color: white;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 5px;
+
 }
